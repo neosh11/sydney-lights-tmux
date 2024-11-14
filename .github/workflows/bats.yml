@@ -33,7 +33,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Run tokyo-night-tmux tests
+      - name: Run sydney-lights-tmux tests
         shell: bash -e {0}
         run: bats --verbose-run --report-formatter junit test/
 
@@ -67,7 +67,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Run tokyo-night-tmux tests
+      - name: Run sydney-lights-tmux tests
         run: bats --verbose-run --report-formatter junit test/
 
       - name: Upload Test Report

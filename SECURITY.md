@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-We take the security of our open-source project, tokyo-night-tmux, very seriously. If you discover a potential security vulnerability in our codebase, we appreciate your help in disclosing it to us responsibly.
+We take the security of our open-source project, sydney-lights-tmux, very seriously. If you discover a potential security vulnerability in our codebase, we appreciate your help in disclosing it to us responsibly.
 
 To report a security vulnerability, please follow these steps:
 
@@ -20,7 +20,7 @@ To report a security vulnerability, please follow these steps:
 
 ## Supported Versions
 
-We actively maintain and support the latest version of tokyo-night-tmux. We encourage all users to keep their installations up to date with the latest release to ensure they have the most recent security fixes.
+We actively maintain and support the latest version of sydney-lights-tmux. We encourage all users to keep their installations up to date with the latest release to ensure they have the most recent security fixes.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -29,16 +29,16 @@ We actively maintain and support the latest version of tokyo-night-tmux. We enco
 
 ## Security Best Practices
 
-To ensure the security of your tokyo-night-tmux installation, we recommend following these best practices:
+To ensure the security of your sydney-lights-tmux installation, we recommend following these best practices:
 
-- Keep your tokyo-night-tmux installation up to date with the latest version.
-- Regularly review and update any dependencies used by tokyo-night-tmux to address any known vulnerabilities.
-- Follow secure coding practices and guidelines when contributing to the tokyo-night-tmux codebase.
-- Use strong and unique passwords for any accounts associated with tokyo-night-tmux.
+- Keep your sydney-lights-tmux installation up to date with the latest version.
+- Regularly review and update any dependencies used by sydney-lights-tmux to address any known vulnerabilities.
+- Follow secure coding practices and guidelines when contributing to the sydney-lights-tmux codebase.
+- Use strong and unique passwords for any accounts associated with sydney-lights-tmux.
 - Regularly monitor your installation for any suspicious activity or unauthorized access attempts.
 
 ## Acknowledgments
 
-We would like to express our gratitude to the security researchers and community members who responsibly disclose vulnerabilities to us. Your efforts help us maintain the security and integrity of tokyo-night-tmux.
+We would like to express our gratitude to the security researchers and community members who responsibly disclose vulnerabilities to us. Your efforts help us maintain the security and integrity of sydney-lights-tmux.
 
-If you have any further questions or concerns regarding the security of tokyo-night-tmux, please don't hesitate to contact us at [hola@logico.com.ar](mailto:hola@logico.com.ar).
+If you have any further questions or concerns regarding the security of sydney-lights-tmux, please don't hesitate to contact us at [hola@logico.com.ar](mailto:hola@logico.com.ar).
